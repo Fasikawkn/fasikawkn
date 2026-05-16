@@ -35,7 +35,7 @@ Building scalable mobile and web applications with modern technologies.
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,firebase,mysql" />
 </p>
 
 ### DevOps & Tools
