@@ -14,7 +14,7 @@ Building scalable mobile and web applications with modern technologies.
 
 - 💼 Senior Frontend Developer 
 - 📱 Specialized in **Flutter** and **React Native** cross-platform development
-- 🌐 Building modern web applications with **Vue.js** and **React**
+- 🌐 Building modern web applications with **Vue.js**
 - ⚙️ Experienced with **Laravel**, **Firebase**, and backend integrations
 - 🚀 Passionate about performance optimization, scalable architecture, and clean UI/UX
 - 🔄 Experienced in CI/CD workflows using **GitHub Actions** and **Codemagic**
